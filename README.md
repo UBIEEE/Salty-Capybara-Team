@@ -17,7 +17,10 @@
 
 ## Libraries  
 
-* [Insert here]  
+* [Arduino_LSM6DSOX](https://www.arduino.cc/reference/en/libraries/arduino_lsm6dsox/)
+* [Adafruit VCNL4020](https://www.arduino.cc/reference/en/libraries/adafruit-vcnl4020-library/)
+* [CDRV8833](https://www.arduino.cc/reference/en/libraries/cdrv8833/)
+* [HCSR04 ultrasonic sensor](https://www.arduino.cc/reference/en/libraries/hcsr04-ultrasonic-sensor/)  
 
 ## Milestones  
 
