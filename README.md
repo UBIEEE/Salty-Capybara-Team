@@ -1,6 +1,6 @@
 # Salty-Capybara-Team  
 
-## Components  
+## Our Components  
 
 * [ARDUINO UNO R4 MINIMA](https://www.digikey.com/en/products/detail/arduino/ABX00080/20371542)
 * [DC Gearbox Motor - "TT Motor" - 200RPM - 3 to 6VDC](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3777/8687221)
@@ -15,12 +15,19 @@
 * [Ultrasonic Distance Sensor - 3V or 5V - HC-SR04 compatible - RCWL-1601](https://www.adafruit.com/product/4007)
 * [THIN WHITE WHEEL FOR TT DC GEARB](https://www.digikey.com/short/85b98tj9)  
 
-## Libraries  
+## Libraries (need to implement)
 
 * [Arduino_LSM6DSOX](https://www.arduino.cc/reference/en/libraries/arduino_lsm6dsox/)
 * [Adafruit VCNL4020](https://www.arduino.cc/reference/en/libraries/adafruit-vcnl4020-library/)
 * [CDRV8833](https://www.arduino.cc/reference/en/libraries/cdrv8833/)
 * [HCSR04 ultrasonic sensor](https://www.arduino.cc/reference/en/libraries/hcsr04-ultrasonic-sensor/)  
+
+## Todo  
+
+* Put together micromouse (still need the parts)
+* Code stuff idk  
+* Debug probably
+* ...  
 
 ## Milestones  
 
@@ -28,7 +35,6 @@
 Worked on Arduino Ultrasonic sensor. 
 Sensor can:
 - Detect how far an object is based on where it is.
-![Super Crift-Albar](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/cb61ea73-424d-4ce2-9563-fce2a8e23ae2)
 - I need to work on GPIO Output  
 
 ### Milestone Set 2: 11/22/23  
