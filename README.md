@@ -15,7 +15,7 @@
 * [Ultrasonic Distance Sensor - 3V or 5V - HC-SR04 compatible - RCWL-1601](https://www.adafruit.com/product/4007)
 * [THIN WHITE WHEEL FOR TT DC GEARB](https://www.digikey.com/short/85b98tj9)  
 
-## Libraries (need to implement)
+## Libraries
 
 * [Arduino_LSM6DSOX](https://www.arduino.cc/reference/en/libraries/arduino_lsm6dsox/)
 * [Adafruit VCNL4020](https://www.arduino.cc/reference/en/libraries/adafruit-vcnl4020-library/)
@@ -24,40 +24,46 @@
 
 ## Todo  
 
-* Put together micromouse (still need the parts)
-* Code stuff idk  
-* Debug probably
-* ...  
+* Have working algorithm(s)
+* Create code for sensors
+* Have the electronic-mechanic relationships work
+* Create chassis
+* Put together robot physically
 
-## Milestones  
+## Milestones (Updated as of 3/7)
 
-### Milestone Set 1: 11/8/23  
-Worked on Arduino Ultrasonic sensor. 
+
+### Milestone Set 1: March
+
+#### Weeks 1 & 2
+* Worked on Arduino Ultrasonic sensor. 
 Sensor can:
-- Detect how far an object is based on where it is.
-- I need to work on GPIO Output  
+  * Detect how far an object is based on where it is.
+  *  I need to work on GPIO Output
 
-### Milestone Set 2: 11/22/23  
+#### Week 4 (had spring break)
 * Get the algorithm working in simulation. 
 * Positioning algorithm can properly visualize mouse in simulation.
-* Can make the motors spin from the battery.  
-
-### Milestone Set 3: 11/29/23  
+* Can make the motors spin from the battery.
 * Microcontroller can control the motors. 
+
+
+### Milestone Set 2: April
+
+#### Weeks 1 & 2
 * Microcontroller can read sensor data and calculate the position of the mouse.
 * Microcontroller can run the algorithm.  
 
-### Milestone Set 4: Over break  
-* TBD: Bussin  
-
-### Milestone Set 5: 1/10/24  
+#### Week 3
 * Mouse can move in a straight line a stop when it reaches an obstacle.
 * Mouse can turn 90 degrees when told to by the algorithm.
 * Mouse can move for 10 minutes straight. 
-* Mouse can execute different algorithms based on user inputs from physical buttons on the mouse.  
+* Mouse can execute different algorithms based on user inputs from physical buttons on the mouse.
 
-### Milestone Set 6: 1/24/24  
+#### Week 4  
 * Mouse can move through a maze randomly without hitting walls.  
 
-### Milestone Set 7: 2/7/24  
-* Mouse can solve the maze.  
+
+### Milestone Set 2.5: May - Week Prior to Finals Week
+* Mouse can solve a predefined maze.
+* Mouse can solve randomly generated mazes.
